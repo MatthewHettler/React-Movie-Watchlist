@@ -7,7 +7,7 @@
 }
 
 body {
-  font-family: "Source San Pro", sans-serif;
+  font-family: "Source Sans Pro", sans-serif;
   padding: 0;
   margin: 0;
 }
@@ -151,7 +151,7 @@ header .nav-links li:last-child {
 
 .result-card .poster-wrapper img,
 .filler-poster {
-  width: 75;
+  width: 75px;
   height: 113px;
   background-color: #dbdada;
   border-radius: 5px;
